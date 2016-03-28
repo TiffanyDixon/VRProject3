@@ -166,12 +166,32 @@ Material:
         second: 0
       data:
         first:
-          name: _Rotation
-        second: 19
+          name: _SunExposure
+        second: 150
+      data:
+        first:
+          name: _TextureOrGradient
+        second: 1
+      data:
+        first:
+          name: _GradientVerticalOffset
+        second: -0.06
+      data:
+        first:
+          name: _GradientExponent
+        second: 1.7
+      data:
+        first:
+          name: _GradientExposure
+        second: 0.85
       data:
         first:
           name: _ExposureCube
         second: 2.5
+      data:
+        first:
+          name: _Rotation
+        second: 19
       data:
         first:
           name: _RotationPitch
@@ -192,26 +212,6 @@ Material:
         first:
           name: _Exposure2
         second: 1.2
-      data:
-        first:
-          name: _SunExposure
-        second: 150
-      data:
-        first:
-          name: _TextureOrGradient
-        second: 1
-      data:
-        first:
-          name: _GradientVerticalOffset
-        second: -0.06
-      data:
-        first:
-          name: _GradientExponent
-        second: 1.7
-      data:
-        first:
-          name: _GradientExposure
-        second: 0.85
       data:
         first:
           name: _UseTexOrGrdient
@@ -239,6 +239,14 @@ Material:
         second: {r: 1, g: 0.7533517, b: 0.5294173, a: 1}
       data:
         first:
+          name: _GradientColorStart
+        second: {r: 0.3395863, g: 0.2839594, b: 0.3823591, a: 0.5}
+      data:
+        first:
+          name: _GradientColorEnd
+        second: {r: 0.08823532, g: 0.08823532, b: 0.08823532, a: 0.5}
+      data:
+        first:
           name: _Tint
         second: {r: 0.35294116, g: 0.33103445, b: 0.25951555, a: 0.5}
       data:
@@ -249,14 +257,6 @@ Material:
         first:
           name: _Tint2
         second: {r: 0.5, g: 0.5, b: 0.5, a: 0.5}
-      data:
-        first:
-          name: _GradientColorStart
-        second: {r: 0.3395863, g: 0.2839594, b: 0.3823591, a: 0.5}
-      data:
-        first:
-          name: _GradientColorEnd
-        second: {r: 0.08823532, g: 0.08823532, b: 0.08823532, a: 0.5}
       data:
         first:
           name: _GradientColor0
