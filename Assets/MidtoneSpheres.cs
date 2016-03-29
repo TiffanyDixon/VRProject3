@@ -5,6 +5,8 @@ public class MidtoneSpheres : MonoBehaviour {
 	public float duration = 1.0F;
 	public Light halo;
 	public float intensity;
+	public float minIntensity = 0.25f;
+	public float maxIntensity = 0.75f;
 
 	// Use this for initialization
 	void Start () {
@@ -13,8 +15,9 @@ public class MidtoneSpheres : MonoBehaviour {
 	}
 	
 	// Update is called once per frame
-	void Update (int intensity) {
-		halo.intensity = intensity;
-	
+	void Update () {
+		float t = Mathf.PingPong (Time.time, duration) / duration;
+		halo.intensity = Mathf.Lerp (minIntensity, maxIntensity, t);
+		
 	}
 }
