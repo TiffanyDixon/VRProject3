@@ -13,12 +13,12 @@ public class LightChanges : MonoBehaviour {
 	void Start () {
 		lt = GetComponent<Light> ();
 	}
-	
+
 	// Update is called once per frame
-	void Update (float intensity) {
+	void Update () {
 		float t = Mathf.PingPong (Time.time, duration) / duration;
 		lt.color = Color.Lerp (firstColor, secondColor, t);
 		lt.intensity = intensity;
-	
+
 	}
 }

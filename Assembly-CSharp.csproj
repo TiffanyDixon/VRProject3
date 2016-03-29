@@ -46,8 +46,11 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\GalaxyBox1\examplescene.cs" />
+     <Compile Include="Assets\LightChanges.cs" />
+     <Compile Include="Assets\MidtoneSpheres.cs" />
      <Compile Include="Assets\MoBlur\MoBlur.cs" />
      <Compile Include="Assets\MoBlur\MoBlurSkinRigidBinding.cs" />
+     <Compile Include="Assets\PulseSize.cs" />
      <Compile Include="Assets\Scripts\AgentTween.cs" />
      <Compile Include="Assets\Scripts\AlterRange.cs" />
      <Compile Include="Assets\Scripts\AnimationHub.cs" />
