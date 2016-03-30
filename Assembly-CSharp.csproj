@@ -47,6 +47,7 @@
   <ItemGroup>
      <Compile Include="Assets\Footsteps.cs" />
      <Compile Include="Assets\GalaxyBox1\examplescene.cs" />
+     <Compile Include="Assets\Introduction.cs" />
      <Compile Include="Assets\LightChanges.cs" />
      <Compile Include="Assets\MidtoneSpheres.cs" />
      <Compile Include="Assets\MoBlur\MoBlur.cs" />

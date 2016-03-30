@@ -11,6 +11,9 @@ TagManager:
   - Light1
   - Light2
   - Alter
+  - Fire
+  - headphones
+  - Player
   layers:
   - Default
   - TransparentFX
