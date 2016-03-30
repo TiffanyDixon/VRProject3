@@ -74,10 +74,22 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Footsteps.cs" />
     <Compile Include="Assets\GalaxyBox1\examplescene.cs" />
+    <Compile Include="Assets\LightChanges.cs" />
+    <Compile Include="Assets\MidtoneSpheres.cs" />
     <Compile Include="Assets\MoBlur\MoBlur.cs" />
     <Compile Include="Assets\MoBlur\MoBlurSkinRigidBinding.cs" />
     <Compile Include="Assets\PulseSize.cs" />
+    <Compile Include="Assets\PyroParticles\Demo\DemoScript.cs" />
+    <Compile Include="Assets\PyroParticles\Prefab\Script\FireBaseScript.cs" />
+    <Compile Include="Assets\PyroParticles\Prefab\Script\FireCollisionForwardScript.cs" />
+    <Compile Include="Assets\PyroParticles\Prefab\Script\FireConstantBaseScript.cs" />
+    <Compile Include="Assets\PyroParticles\Prefab\Script\FireLightScript.cs" />
+    <Compile Include="Assets\PyroParticles\Prefab\Script\FireProjectileScript.cs" />
+    <Compile Include="Assets\PyroParticles\Prefab\Script\MeteorSwarmScript.cs" />
+    <Compile Include="Assets\PyroParticles\Prefab\Script\SingleLineAttribute.cs" />
+    <Compile Include="Assets\RotatingLights1.cs" />
     <Compile Include="Assets\Scripts\AgentTween.cs" />
     <Compile Include="Assets\Scripts\AlterRange.cs" />
     <Compile Include="Assets\Scripts\AnimationHub.cs" />
@@ -134,6 +146,8 @@
     <None Include="Assets\MoBlur\MotionBlur_SkinnedVelocity.shader" />
     <None Include="Assets\MoBlur\MotionBlur_StaticVelocity.shader" />
     <None Include="Assets\MoBlur\MotionBlur_TileMax.shader" />
+    <None Include="Assets\PyroParticles\Prefab\Materials\AdditiveTintable.shader" />
+    <None Include="Assets\PyroParticles\Readme.txt" />
     <None Include="Assets\Shaders\Skybox-ProceduralWithCubemap.shader" />
     <None Include="Assets\Shaders\Standard-DirSpecHalfLambert\Standard.shader" />
     <None Include="Assets\Shaders\Standard-DirSpecHalfLambert\StandardSpecular.shader" />

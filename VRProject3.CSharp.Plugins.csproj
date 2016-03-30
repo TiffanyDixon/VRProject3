@@ -170,6 +170,8 @@
     <None Include="Assets\MoBlur\MotionBlur_SkinnedVelocity.shader" />
     <None Include="Assets\MoBlur\MotionBlur_StaticVelocity.shader" />
     <None Include="Assets\MoBlur\MotionBlur_TileMax.shader" />
+    <None Include="Assets\PyroParticles\Prefab\Materials\AdditiveTintable.shader" />
+    <None Include="Assets\PyroParticles\Readme.txt" />
     <None Include="Assets\Shaders\Skybox-ProceduralWithCubemap.shader" />
     <None Include="Assets\Shaders\Standard-DirSpecHalfLambert\Standard.shader" />
     <None Include="Assets\Shaders\Standard-DirSpecHalfLambert\StandardSpecular.shader" />
