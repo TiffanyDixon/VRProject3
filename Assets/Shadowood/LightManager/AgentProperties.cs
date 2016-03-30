@@ -108,8 +108,10 @@ public class AgentProperties : ObjectProperties
 			transform.localScale = new Vector3 (randomSize, randomSize, randomSize);
 
 		}
-		if (sound != null && guardianStatic)
+		//if (sound != null && guardianStatic)
 			sound.enabled = false;
+		
+		sound = null;
 		speed = Random.Range (speedMinMax.x, speedMinMax.y);
 		soundPitchRandom = Random.Range (soundPitch.x, soundPitch.y);
 		//soundPitchRandom = Random.Range(soundPitch.x,soundPitch.y) + sound.pitch;
