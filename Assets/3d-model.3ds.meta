@@ -1,0 +1,280 @@
+fileFormatVersion: 2
+guid: 4294b680b4216254fa51d6a8da7906cb
+timeCreated: 1459309647
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: foot peda0
+    100004: foot peda1
+    100006: foot pedal
+    100008: Group_001
+    100010: Group_002
+    100012: key_001
+    100014: key_003
+    100016: key_005
+    100018: key_007
+    100020: key_009
+    100022: key_011
+    100024: key_013
+    100026: key_015
+    100028: key_017
+    100030: key_019
+    100032: key_021
+    100034: key_023
+    100036: key_025
+    100038: key_027
+    100040: key_029
+    100042: key_031
+    100044: key_033
+    100046: key_035
+    100048: key_037
+    100050: key_039
+    100052: key_041
+    100054: key_043
+    100056: key_045
+    100058: key_047
+    100060: key_049
+    100062: key_051
+    100064: key_053
+    100066: key_055
+    100068: key_057
+    100070: key_059
+    100072: key_061
+    100074: key_063
+    100076: key_065
+    100078: key_067
+    100080: key_069
+    100082: key_071
+    100084: key_073
+    100086: key_075
+    100088: key_077
+    100090: key_079
+    100092: keys_001
+    100094: leg_001
+    100096: leg_002
+    100098: leg_003
+    100100: ske36_001
+    400000: //RootNode
+    400002: foot peda0
+    400004: foot peda1
+    400006: foot pedal
+    400008: Group_001
+    400010: Group_002
+    400012: key_001
+    400014: key_003
+    400016: key_005
+    400018: key_007
+    400020: key_009
+    400022: key_011
+    400024: key_013
+    400026: key_015
+    400028: key_017
+    400030: key_019
+    400032: key_021
+    400034: key_023
+    400036: key_025
+    400038: key_027
+    400040: key_029
+    400042: key_031
+    400044: key_033
+    400046: key_035
+    400048: key_037
+    400050: key_039
+    400052: key_041
+    400054: key_043
+    400056: key_045
+    400058: key_047
+    400060: key_049
+    400062: key_051
+    400064: key_053
+    400066: key_055
+    400068: key_057
+    400070: key_059
+    400072: key_061
+    400074: key_063
+    400076: key_065
+    400078: key_067
+    400080: key_069
+    400082: key_071
+    400084: key_073
+    400086: key_075
+    400088: key_077
+    400090: key_079
+    400092: keys_001
+    400094: leg_001
+    400096: leg_002
+    400098: leg_003
+    400100: ske36_001
+    2300000: foot peda0
+    2300002: foot peda1
+    2300004: foot pedal
+    2300006: Group_001
+    2300008: Group_002
+    2300010: key_001
+    2300012: key_003
+    2300014: key_005
+    2300016: key_007
+    2300018: key_009
+    2300020: key_011
+    2300022: key_013
+    2300024: key_015
+    2300026: key_017
+    2300028: key_019
+    2300030: key_021
+    2300032: key_023
+    2300034: key_025
+    2300036: key_027
+    2300038: key_029
+    2300040: key_031
+    2300042: key_033
+    2300044: key_035
+    2300046: key_037
+    2300048: key_039
+    2300050: key_041
+    2300052: key_043
+    2300054: key_045
+    2300056: key_047
+    2300058: key_049
+    2300060: key_051
+    2300062: key_053
+    2300064: key_055
+    2300066: key_057
+    2300068: key_059
+    2300070: key_061
+    2300072: key_063
+    2300074: key_065
+    2300076: key_067
+    2300078: key_069
+    2300080: key_071
+    2300082: key_073
+    2300084: key_075
+    2300086: key_077
+    2300088: key_079
+    2300090: keys_001
+    2300092: leg_001
+    2300094: leg_002
+    2300096: leg_003
+    2300098: ske36_001
+    3300000: foot peda0
+    3300002: foot peda1
+    3300004: foot pedal
+    3300006: Group_001
+    3300008: Group_002
+    3300010: key_001
+    3300012: key_003
+    3300014: key_005
+    3300016: key_007
+    3300018: key_009
+    3300020: key_011
+    3300022: key_013
+    3300024: key_015
+    3300026: key_017
+    3300028: key_019
+    3300030: key_021
+    3300032: key_023
+    3300034: key_025
+    3300036: key_027
+    3300038: key_029
+    3300040: key_031
+    3300042: key_033
+    3300044: key_035
+    3300046: key_037
+    3300048: key_039
+    3300050: key_041
+    3300052: key_043
+    3300054: key_045
+    3300056: key_047
+    3300058: key_049
+    3300060: key_051
+    3300062: key_053
+    3300064: key_055
+    3300066: key_057
+    3300068: key_059
+    3300070: key_061
+    3300072: key_063
+    3300074: key_065
+    3300076: key_067
+    3300078: key_069
+    3300080: key_071
+    3300082: key_073
+    3300084: key_075
+    3300086: key_077
+    3300088: key_079
+    3300090: keys_001
+    3300092: leg_001
+    3300094: leg_002
+    3300096: leg_003
+    3300098: ske36_001
+    4300000: foot pedal
+    4300002: leg_003
+    4300004: Group_002
+    4300006: key_079
+    4300008: keys_001
+    4300010: Group_001
+    4300012: ske36_001
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
