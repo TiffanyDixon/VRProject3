@@ -16,6 +16,7 @@ TagManager:
   - Player
   - Stagelight
   - Spotlight Collider
+  - Jeers
   layers:
   - Default
   - TransparentFX
