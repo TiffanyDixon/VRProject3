@@ -1,0 +1,15 @@
+/Applications/Unity/projects/VirtualReality/VR3/VRProject3/Temp/bin/Debug/UnityEngine.dll
+/Applications/Unity/projects/VirtualReality/VR3/VRProject3/Temp/bin/Debug/UnityEditor.dll
+/Applications/Unity/projects/VirtualReality/VR3/VRProject3/Temp/bin/Debug/UnityEngine.UI.dll
+/Applications/Unity/projects/VirtualReality/VR3/VRProject3/Temp/bin/Debug/UnityEngine.Networking.dll
+/Applications/Unity/projects/VirtualReality/VR3/VRProject3/Temp/bin/Debug/Assembly-CSharp-firstpass.dll
+/Applications/Unity/projects/VirtualReality/VR3/VRProject3/Temp/bin/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Applications/Unity/projects/VirtualReality/VR3/VRProject3/Temp/bin/Debug/Mono.Cecil.dll
+/Applications/Unity/projects/VirtualReality/VR3/VRProject3/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Applications/Unity/projects/VirtualReality/VR3/VRProject3/Temp/bin/Debug/Unity.DataContract.dll
+/Applications/Unity/projects/VirtualReality/VR3/VRProject3/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Applications/Unity/projects/VirtualReality/VR3/VRProject3/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Applications/Unity/projects/VirtualReality/VR3/VRProject3/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Applications/Unity/projects/VirtualReality/VR3/VRProject3/Temp/bin/Debug/Unity.CecilTools.dll
+/Applications/Unity/projects/VirtualReality/VR3/VRProject3/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Applications/Unity/projects/VirtualReality/VR3/VRProject3/Temp/bin/Debug/Mono.Cecil.Mdb.dll
