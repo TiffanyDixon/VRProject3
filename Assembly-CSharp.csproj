@@ -47,6 +47,7 @@
   <ItemGroup>
      <Compile Include="Assets\Footsteps.cs" />
      <Compile Include="Assets\GalaxyBox1\examplescene.cs" />
+     <Compile Include="Assets\IncreaseVolumeOnEnter.cs" />
      <Compile Include="Assets\Introduction.cs" />
      <Compile Include="Assets\LightChanges.cs" />
      <Compile Include="Assets\MidiJack-unity5\Assets\Example CC\KnobIndicator.cs" />
@@ -119,6 +120,7 @@
      <Compile Include="Assets\Shadowood\LightManager\AgentProperties.cs" />
      <Compile Include="Assets\Shadowood\Post\ShadowoodExposure.cs" />
      <Compile Include="Assets\Shadowood\Post\ShadowoodVignette.cs" />
+     <Compile Include="Assets\SpotlightFollow.cs" />
      <None Include="Assets\Standard Assets\Effects\GlassRefraction\Shaders\GlassStainedBumpDistort.shader" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\BlendOneOne.shader" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\NoiseEffectShaderRGB.shader" />
