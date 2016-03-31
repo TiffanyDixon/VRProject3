@@ -76,6 +76,7 @@
   <ItemGroup>
     <Compile Include="Assets\Footsteps.cs" />
     <Compile Include="Assets\GalaxyBox1\examplescene.cs" />
+    <Compile Include="Assets\IncreaseVolumeOnEnter.cs" />
     <Compile Include="Assets\Introduction.cs" />
     <Compile Include="Assets\LightChanges.cs" />
     <Compile Include="Assets\MidtoneSpheres.cs" />
@@ -137,6 +138,7 @@
     <Compile Include="Assets\Shadowood\LightManager\AgentProperties.cs" />
     <Compile Include="Assets\Shadowood\Post\ShadowoodExposure.cs" />
     <Compile Include="Assets\Shadowood\Post\ShadowoodVignette.cs" />
+    <Compile Include="Assets\SpotlightFollow.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Courtyard_README.txt" />
