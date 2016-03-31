@@ -165,6 +165,7 @@ public class TimeOfDayManager : MonoBehaviour {
 	private float lastSun1, lastSun2;
 
 	public void StaggeredUpdate() {
+	return;
 		var ttime = time;
 
 		UpdateInstant();
