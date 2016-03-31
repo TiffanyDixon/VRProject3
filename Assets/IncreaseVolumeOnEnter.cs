@@ -20,7 +20,7 @@ public class IncreaseVolumeOnEnter : MonoBehaviour {
 		sound.volume = Mathf.Lerp(sound.volume, targetVolume, Time.deltaTime);
 	}
 
-	void OnTriggerEnter() {
-		entered = true;
+	void OnTriggerEnter(Collider collider) {
+		entered = entered || collider.tag == "Player";
 	}
 }
