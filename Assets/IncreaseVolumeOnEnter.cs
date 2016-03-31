@@ -22,6 +22,5 @@ public class IncreaseVolumeOnEnter : MonoBehaviour {
 
 	void OnTriggerEnter() {
 		entered = true;
-		Debug.Log("test");
 	}
 }
